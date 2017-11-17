@@ -12,4 +12,5 @@
 
 ### Node
 - [Update published NPM](node/update-published-npm.md)
+- [Add "Git Pre-XXX Hook" easily](node/add-git-pre-hook-easily.md)
 
